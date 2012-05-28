@@ -10,7 +10,7 @@ Give `general information`_ about the project:
 
 .. _general information: http://forge.typo3.org/projects/typo3v4-official_extension_template
 
-Release
+Releases
 -----------
 
 * Say where the user can download the `source code`_ of the project.
@@ -19,11 +19,9 @@ Release
 Bugs and Known Issues
 -----------------------------------
 
-Say where bugs can be reported / followed onto the `Bug Tracker`_
+Say where bugs can be reported / followed up. Is it a `Bug Tracker`_? Use this section for informing about any type of of problem that are not necessarily named in the bug tracker such as performance issues, ...
 
 .. _Bug Tracker: http://forge.typo3.org/projects/typo3v4-official_extension_template/issues
-
-Use this section for important warnings related performance issues or any other problem types that are not named in the bug tracker.
 
 To Do
 -----------
