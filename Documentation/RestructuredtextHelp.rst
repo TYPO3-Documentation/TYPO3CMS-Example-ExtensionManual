@@ -15,10 +15,10 @@ The reStructuredText (frequently abbreviated as reST) is a lightweight markup la
 .. _Sphinx: http://sphinx.pocoo.org/
 
 
-ReST editor
+ReST editors
 -------------
 
-Since reST is meant to be readable by "designed", a basic editor is enough to start writing documentation. However, there are editors offering facilities towards reST support such as syntax highlighting, conversion to HTML on the fly, ... Please, refer to this `Wiki page`_
+Since reST is meant to be readable by "designed", a basic editor is enough to start writing documentation. However, there are editors providing facilities towards reST support such as syntax highlighting, conversion to HTML on the fly, ... Please, refer and contribute to this `Wiki page`_
 
 .. _Wiki page: http://wiki.typo3.org/Editors_%28reST%29
 
@@ -226,3 +226,12 @@ A sidebar is typically offset by a border and "floats" to the side of the page; 
 	.. sidebar:: Here a side bar
 
 		This box is going to be shifted to the right corner which can be useful to display pointers or other kind of side information.
+
+
+Substitutions
+========================
+
+ReST supports “substitutions”, which are pieces of text and/or markup referred to in the text by |name|. Substitution are to be included in file ``_IncludedDirectives`` to be avaiable across the documentation. They are defined like footnotes with explicit markup blocks, like this::
+
+	.. |name| replace:: replacement *text*
+

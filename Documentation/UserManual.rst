@@ -2,15 +2,17 @@
 Users manual
 ============
 
-Documentation of how to use the extension, how it works, how to apply it if it's a website plugin.
+Target group: **Editors**
 
-Language should be non-technical, explaining, using small examples. Don't use to many acronym unless it has been explained.
+Here should be described how to use the extension from the editor pespective.
 
-Examples: For the "News" plugin this would be a manual showing how to create the news-items, explaining the options etc.
+* How it works?
+* How to install the plugin on a web page?
+* What options are available?
 
-Provide screenshots of a neutral Backend such as the Introduction Package for instance. Have in mind that the User manual could be possibly re-used in a larger documentation compilation when a company generates a documentation to its client, for example.
+Language should be non-technical, explaining, using small examples. Don't use to many acronyms unless they have been explained. Don't be confusing by putting information targeting administrators.
 
-Target group: **Users**
+Provide screenshots of a neutral Backend such as the `Introduction Package`_ for instance. Keep in mind that the User manual chapter is a candidate to be re-used in a larger documentation compilation. Let imagine a company / organisation is generating a specific documentation towards its clients or end users and can possibly take advantage of the `User manual`_.
 
 .. figure:: Images/UserManual/BackendView.png
 		:width: 500px
@@ -24,3 +26,6 @@ FAQ
 ====
 
 Possible subsection: FAQ
+
+.. _User manual:
+.. _Introduction Package: http://demo.typo3.org/
