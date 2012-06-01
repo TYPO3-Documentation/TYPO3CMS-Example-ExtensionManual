@@ -1,0 +1,48 @@
+    The Baskervald collection consists of fonts made by Arkandis Digital
+    Foundry (ADF), collectively known as the "Program"
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or any later 
+    version, with font exception.
+
+   As a special exception, if you create a document which uses Baskervald
+   font, and embed this font or unaltered portions of this font into the
+   document, this font does not by itself cause the resulting document to
+   be covered by the GNU General Public License. This exception does not
+   however invalidate any other reasons why the document might be covered
+   by the GNU General Public License. If you modify this font, you may
+   extend this exception to your version of the font, but you are not
+   obligated to do so. If you do not wish to do so, delete this exception
+   statement from your version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+_____________________________________________________________________________________
+     RELEASE 
+	1.000 - Initial release
+	1.001 - Spacing correction 
+	1.002 - Modifications: e,a,t,i,eight New kerning
+	1.003 - Modifications: b,e,y
+	1.004 - Modifications: i,j,t
+	1.005 - Spacing correction
+	1.006 - Modification: a,f,F,m,n, new kerning
+	1.007 - Hint ajustment: i,j,k
+	1.008 - Modifications:A, new kerning, change license to GNU GPL
+	1.009 - Modifications: Numbers size, (italic) spacing, minor corrections
+	1.010 - Modifications: Spacing of numbers, Addition of glyphes to Std format
+	1.011 - Minor corrections, modification: g (regular and bold), spacing modification and larger(regular)
+	1.012 - Extented to new std.
+	1.013 - sp,fj,ffj addition.
+	1.014 - Minor corrections.
+	1.015 - New kerning.
+	1.016 - Minor corrections (g,Y).
+	1.017 - Correction (g), accent pos revised, liga PUA
+	1.018 - Minor correction
