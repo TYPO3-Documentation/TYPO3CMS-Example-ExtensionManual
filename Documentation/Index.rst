@@ -1,4 +1,4 @@
-﻿..  Editor configuration
+..  Editor configuration
 	...................................................
 	* utf-8 with BOM as encoding
 	* tab indent with 4 characters for code snippet.
@@ -44,3 +44,17 @@ The content of this document is related to TYPO3, a GNU/GPL CMS/Framework availa
 
 
 .. include:: ../Readme.rst
+
+What does it do?
+=================
+
+In this chapter should be given a brief overview of the extension. What does it do? What problem does it solve? Who is interested in this? Basically, this section includes everything people need to know to decide whether they should go on with this extension.
+
+.. figure:: Images/IntroductionPackage.png
+		:width: 500px
+		:alt: Introduction Package
+
+		Introduction Package just after installation (caption of the image)
+
+		How the Frontend of the Introduction Package looks like just after installation (legend of the image)
+
