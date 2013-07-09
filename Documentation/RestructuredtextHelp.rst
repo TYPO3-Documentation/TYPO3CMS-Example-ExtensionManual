@@ -231,7 +231,7 @@ A sidebar is typically offset by a border and "floats" to the side of the page; 
 Substitutions
 ========================
 
-ReST supports “substitutions”, which are pieces of text and/or markup referred to in the text by |name|. Substitution are to be included in file ``_IncludedDirectives`` to be avaiable across the documentation. They are defined like footnotes with explicit markup blocks, like this::
+ReST supports "substitutions", which are pieces of text and/or markup referred to in the text by |name|. Substitution are to be included in file ``_IncludedDirectives`` to be avaiable across the documentation. They are defined like footnotes with explicit markup blocks, like this::
 
 	.. |name| replace:: replacement *text*
 
