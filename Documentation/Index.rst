@@ -43,8 +43,6 @@ The content of this document is related to TYPO3, a GNU/GPL CMS/Framework availa
 	@todo: explain what files should be versionned and what not (_build, Makefile, conf.py, ...)
 
 
-.. include:: ../Readme.rst
-
 What does it do?
 =================
 
