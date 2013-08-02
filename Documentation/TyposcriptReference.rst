@@ -1,6 +1,5 @@
-﻿=========================
-Configuration Reference
-=========================
+﻿Configuration Reference
+=======================
 
 Technical information: Installation, Reference of TypoScript options,
 configuration options on system level, how to extend it, the technical
@@ -13,7 +12,7 @@ Target group: **Developers**
 
 
 TypoScript Reference
-=====================
+--------------------
 
 Possible subsections: Reference of TypoScript options.
 
@@ -61,6 +60,6 @@ Possible subsections: Reference of TypoScript options.
 
 
 FAQ
-====
+---
 
 Possible subsection: FAQ

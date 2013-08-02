@@ -7,9 +7,9 @@
 .. Includes roles, substitutions, ...
 .. include:: _IncludedDirectives.rst
 
-=================
+==============
 Extension Name
-=================
+==============
 
 :Extension name: |extension_name|
 :Extension key: |extension_key|
@@ -44,7 +44,7 @@ The content of this document is related to TYPO3, a GNU/GPL CMS/Framework availa
 
 
 What does it do?
-=================
+================
 
 In this chapter should be given a brief overview of the extension. What does it do? What problem does it solve? Who is interested in this? Basically, this section includes everything people need to know to decide whether they should go on with this extension.
 

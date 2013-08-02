@@ -1,5 +1,4 @@
-﻿============
-Users manual
+﻿Users manual
 ============
 
 Target group: **Editors**
@@ -23,7 +22,7 @@ Provide screenshots of a neutral Backend such as the `Introduction Package`_ for
 		The Backend view of TYPO3 after the user has clicked on module "Page". (legend of the image)
 
 FAQ
-====
+---
 
 Possible subsection: FAQ
 

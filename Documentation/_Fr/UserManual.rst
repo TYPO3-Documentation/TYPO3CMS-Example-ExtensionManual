@@ -1,6 +1,6 @@
-﻿========================
+﻿==================
 Manuel utilisateur
-========================
+==================
 
 This is a place where the translation of the User Manual could be possibly added. This could be handy when a company is compiling a documentation towards the End User in a native language. It has the possibility to include this file in the build process.
 

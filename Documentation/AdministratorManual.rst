@@ -1,6 +1,5 @@
-﻿============================
-Administrator Manual
-============================
+﻿Administrator Manual
+====================
 
 Target group: **Administrators**
 
@@ -10,7 +9,7 @@ Language should be non / semi-technical, explaining, using small examples.
 
 
 Installation
-=============
+------------
 
 * How should the extension be installed?
 * Are they dependencies to resolve?
@@ -35,12 +34,12 @@ options:
 
 
 Configuration
-=======================
+-------------
 
 * Where and how the extension should be configured? TypoScript? PHP?
 * Are there other prerequisite to full fill beforehand? For example, configure a setting in a special way somewhere.
 
 FAQ
-====
+---
 
 Possible subsection: FAQ
