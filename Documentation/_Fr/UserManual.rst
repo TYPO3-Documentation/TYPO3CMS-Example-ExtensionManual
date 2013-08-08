@@ -8,7 +8,7 @@ Comment installer et utiliser l'extension du point de vue de l'utilisateur.
 
 Copie d'écran indispensable.
 
-.. figure:: Images/UserManualFr/BackendView.png
+.. figure:: Images/UserManual/BackendView.png
 		:width: 500px
 		:alt: Backend view
 

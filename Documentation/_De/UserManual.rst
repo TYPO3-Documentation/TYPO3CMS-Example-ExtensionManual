@@ -6,7 +6,7 @@ This is a place where the translation of the User Manual could be possibly added
 
 To translate: documentation of how to use the extension, how it works, how to apply it if it's a website plugin.
 
-.. figure:: Images/UserManualDe/BackendView.png
+.. figure:: Images/UserManual/BackendView.png
 		:width: 500px
 		:alt: Backend view
 
