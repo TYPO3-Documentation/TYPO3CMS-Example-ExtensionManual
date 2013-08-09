@@ -1,60 +1,76 @@
-..  Editor configuration
-	...................................................
-	* utf-8 with BOM as encoding
-	* tab indent with 4 characters for code snippet.
-	* optional: soft carriage return preferred.
+﻿.. ==================================================
+.. FOR YOUR INFORMATION
+.. --------------------------------------------------
+.. -*- coding: utf-8 -*- with BOM.
 
-.. Includes roles, substitutions, ...
-.. include:: _IncludedDirectives.rst
+.. include:: Includes.txt
 
-==============
+
+.. _start:
+
+=============================================================
 Extension Name
-==============
+=============================================================
 
 .. only:: html
 
-	:Extension name: |extension_name|
-	:Extension key: |extension_key|
-	:Version: x.y.z
-	:Description: manuals covering TYPO3 extension "|extension_name|"
-	:Language: en
-	:Author: |author|
-	:Creation: 18-12-2010
-	:Generation: |time|
-	:Licence: Open Content License available from `www.opencontent.org/opl.shtml <http://www.opencontent.org/opl.shtml>`_
+	:Classification:
+		<extension key>
 
-	The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org
-	<http://www.typo3.org/>`_
+	:Version:
+		|release|
+
+	:Language:
+		en
+
+	:Description:
+		Manual covering TYPO3 extension <extension name>
+
+	:Keywords:
+		comma,separated,list,of,keywords
+
+	:Copyright:
+		2013
+
+	:Author:
+		Your name
+
+	:Email:
+		you@domain.tld
+
+	:License:
+		This document is published under the Open Content License
+		available from http://www.opencontent.org/opl.shtml
+
+	:Rendered:
+		|today|
+
+	The content of this document is related to TYPO3,
+	a GNU/GPL CMS/Framework available from `www.typo3.org <http://www.typo3.org/>`_.
 
 
 	**Table of Contents**
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 5
+	:titlesonly:
+	:glob:
 
-	ProjectInformation
-	UserManual
-	AdministratorManual
-	TyposcriptReference
-	DeveloperCorner
-	RestructuredtextHelp
+	Introduction/Index
+	UserManual/Index
+	AdministratorManual/Index
+	Configuration/Index
+	DeveloperCorner/Index
+	KnownProblems/Index
+	ToDoList/Index
+	ChangeLog/Index
+	Targets
+
+.. tip::
+	Please visit http://wiki.typo3.org/ReST_Syntax for further instructions and tips and tricks
+	how to start with reStructuredText and Sphinx.
 
 .. STILL TO ADD IN THIS DOCUMENT
 	@todo: add section about how screenshots can be automated. Pointer to PhantomJS could be added.
 	@todo: explain how documentation can be rendered locally and remotely.
-	@todo: explain what files should be versionned and what not (_build, Makefile, conf.py, ...)
-
-
-What does it do?
-================
-
-In this chapter should be given a brief overview of the extension. What does it do? What problem does it solve? Who is interested in this? Basically, this section includes everything people need to know to decide whether they should go on with this extension.
-
-.. figure:: Images/IntroductionPackage.png
-		:width: 500px
-		:alt: Introduction Package
-
-		Introduction Package just after installation (caption of the image)
-
-		How the Frontend of the Introduction Package looks like just after installation (legend of the image)
-
+	@todo: explain what files should be versioned and what not (_build, Makefile, conf.py, ...)

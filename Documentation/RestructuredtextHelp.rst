@@ -1,4 +1,12 @@
-﻿Help writing reStructuredText
+﻿.. ==================================================
+.. FOR YOUR INFORMATION
+.. --------------------------------------------------
+.. -*- coding: utf-8 -*- with BOM.
+
+.. include:: Includes.txt
+
+
+Help writing reStructuredText
 =============================
 
 The reStructuredText (frequently abbreviated as reST) is a lightweight markup language intended to be highly readable in source format. This chapter is a brief introduction to reStructuredText syntax, intended to provide authors with enough information to start writing their documentation. Some example below are taken from the `official documentation`_. More resources are to be found online:

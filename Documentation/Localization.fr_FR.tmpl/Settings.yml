@@ -5,13 +5,13 @@
 ---
 conf.py:
   copyright: 2012-2013
-  project: Extension Name
+  project: Extension Name (Français)
   version: x.y
   release: x.y.z
   latex_documents:
   - - Index
     - <extension_key>.tex
-    - Extension Name
+    - Extension Name (Français)
     - Your Name
     - manual
   latex_elements:

@@ -1,4 +1,14 @@
-﻿Users manual
+﻿.. ==================================================
+.. FOR YOUR INFORMATION
+.. --------------------------------------------------
+.. -*- coding: utf-8 -*- with BOM.
+
+.. include:: ../Includes.txt
+
+
+.. _user-manual:
+
+Users Manual
 ============
 
 Target group: **Editors**
@@ -13,13 +23,16 @@ Language should be non-technical, explaining, using small examples. Don't use to
 
 Provide screenshots of a neutral Backend such as the `Introduction Package`_ for instance. Keep in mind that the User manual chapter is a candidate to be re-used in a larger documentation compilation. Let imagine a company / organisation is generating a specific documentation towards its clients or end users and can possibly take advantage of the `User manual`_.
 
-.. figure:: Images/UserManual/BackendView.png
+.. figure:: ../Images/UserManual/BackendView.png
 		:width: 500px
 		:alt: Backend view
 
 		Default Backend view (caption of the image)
 
 		The Backend view of TYPO3 after the user has clicked on module "Page". (legend of the image)
+
+
+.. _user-faq:
 
 FAQ
 ---
