@@ -13,7 +13,7 @@ Users Manual
 
 Target group: **Editors**
 
-Here should be described how to use the extension from the editor pespective.
+Here should be described how to use the extension from the editor perspective.
 
 * How it works?
 * How to install the plugin on a web page?
