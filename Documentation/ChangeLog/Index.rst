@@ -17,5 +17,5 @@ ChangeLog
 
 .. _source code: http://git.typo3.org/
 .. _stable versions: http://typo3.org/extensions/repository/
-.. _roadmap: http://forge.typo3.org/projects/typo3v4-official_extension_template/roadmap
-.. _repository log: http://git.typo3.org/TYPO3v4/Core.git?a=shortlog
+.. _roadmap: http://forge.typo3.org/projects/typo3cms-doc-official-extension-template/roadmap
+.. _repository log: http://git.typo3.org/Packages/TYPO3.CMS.git?a=shortlog
