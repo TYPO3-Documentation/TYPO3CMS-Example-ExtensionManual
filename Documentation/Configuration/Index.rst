@@ -27,13 +27,17 @@ TypoScript Reference
 --------------------
 
 Possible subsections: Reference of TypoScript options.
+The construct below show the recommended structure for
+TypoScript properties listing and description.
 
+Properties should be listed in the order in which they
+are executed by your extension, but the first should be
+alphabetical for easier access.
 
-.. only:: html
-
-	.. contents::
-		:local:
-		:depth: 1
+When detailing data types or standard TypoScript
+features, don't hesitate to cross-link to the TypoScript
+Reference as shown below. See the :file:`Settings.yml`
+file for the declaration of cross-linking keys.
 
 
 Properties
@@ -41,13 +45,13 @@ Properties
 
 .. container:: ts-properties
 
-	===================================================== ===================================================================== ======================= ==================
-	Property                                              Data type                                                             :ref:`t3tsref:stdwrap`  Default
-	===================================================== ===================================================================== ======================= ==================
-	allWrap_                                              :ref:`t3tsref:data-type-wrap`                                         yes                     :code:`<div>|</div>`
-	wrapItemAndSub_                                       :ref:`t3tsref:data-type-wrap`
-	`subst\_elementUid`_                                  :ref:`t3tsref:data-type-boolean`                                      no                      0
-	===================================================== ===================================================================== ======================= ==================
+	=========================== ===================================== ======================= ====================
+	Property                    Data type                             :ref:`t3tsref:stdwrap`  Default
+	=========================== ===================================== ======================= ====================
+	allWrap_                    :ref:`t3tsref:data-type-wrap`         yes                     :code:`<div>|</div>`
+	`subst\_elementUid`_        :ref:`t3tsref:data-type-boolean`      no                      0
+	wrapItemAndSub_             :ref:`t3tsref:data-type-wrap`
+	=========================== ===================================== ======================= ====================
 
 
 Property details
