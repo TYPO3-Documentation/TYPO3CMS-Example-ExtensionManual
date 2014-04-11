@@ -16,7 +16,16 @@ Target group: **Editors**
 Here should be described how to use the extension from the editor perspective.
 
 - How does it work?
+
+  - works well when doing this.
+
+  - does not work so well when doing that
+    but we can live with it.
+
+  - **mind indentation when nesting lists**.
+
 - How to install the plugin on a web page?
+
 - What options are available?
 
 Language should be non-technical, explaining, using small examples.
