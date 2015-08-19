@@ -39,8 +39,8 @@
 		author@example.com
 
 	:Lizenz:
-		Dieses Dokument wird unter der Open Content License, siehe
-		http://www.opencontent.org/opl.shtml veröffentlicht.
+		Dieses Dokument wird unter der Open Publication License, siehe
+		http://www.opencontent.org/openpub/ veröffentlicht.
 
 	:Gerendert:
 		|today|
