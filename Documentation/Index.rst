@@ -64,3 +64,4 @@ Extension Name
 	KnownProblems/Index
 	ToDoList/Index
 	ChangeLog/Index
+	Links
