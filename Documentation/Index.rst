@@ -52,9 +52,8 @@ Extension Name
 	**Table of Contents**
 
 .. toctree::
-	:maxdepth: 5
+	:maxdepth: 3
 	:titlesonly:
-	:glob:
 
 	Introduction/Index
 	User/Index

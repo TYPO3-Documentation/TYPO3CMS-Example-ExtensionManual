@@ -52,9 +52,8 @@
 	**Sommaire**
 
 .. toctree::
-	:maxdepth: 5
+	:maxdepth: 3
 	:titlesonly:
-	:glob:
 
 ..	Introduction/Index
 ..	UserManual/Index
