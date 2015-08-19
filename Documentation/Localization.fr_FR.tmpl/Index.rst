@@ -46,7 +46,7 @@
 		|today|
 
 	Le contenu de ce document est en relation avec TYPO3,
-	un CMS/Framework GNU/GPL disponible sur `www.typo3.org <http://www.typo3.org/>`_.
+	un CMS/Framework GNU/GPL disponible sur `www.typo3.org <https://typo3.org/>`__.
 
 
 	**Sommaire**
