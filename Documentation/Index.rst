@@ -30,7 +30,7 @@ Extension Name
 		comma,separated,list,of,keywords
 
 	:Copyright:
-		2013
+		2013-2015
 
 	:Author:
 		Your name

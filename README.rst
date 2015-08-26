@@ -19,6 +19,6 @@ Remember: documentation is like gift wrapping, it may look superfluous,
 but your friends tend to be rather disappointed when their presents
 arrive in supermarket carrier bags. (Documentation-Driven Design quote)
 
-.. _Core APIs: http://docs.typo3.org/typo3cms/CoreApiReference/ExtensionArchitecture/Documentation/Index.html
-.. _can be dropped: http://forge.typo3.org/projects/typo3cms-doc-official-extension-template/issues
-.. _Documentation Team: http://forge.typo3.org/projects/typo3cms-doc-official-extension-template
+.. _Core APIs: https://docs.typo3.org/typo3cms/CoreApiReference/ExtensionArchitecture/Documentation/Index.html
+.. _can be dropped: https://forge.typo3.org/projects/typo3cms-doc-official-extension-template/issues
+.. _Documentation Team: https://forge.typo3.org/projects/typo3cms-doc-official-extension-template
