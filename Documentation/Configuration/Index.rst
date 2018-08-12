@@ -59,7 +59,7 @@ Property details
 		:depth: 1
 
 
-.. _ts-plugin-tx-extensionkey-stdwrap:
+.. _ts-plugin-tx-extensionkey-allwrap:
 
 allWrap
 """""""
@@ -67,16 +67,6 @@ allWrap
 :typoscript:`plugin.tx_extensionkey.allWrap =` :ref:`t3tsref:data-type-wrap`
 
 Wraps the whole item.
-
-
-.. _ts-plugin-tx-extensionkey-wrapitemandsub:
-
-wrapItemAndSub
-""""""""""""""
-
-:typoscript:`plugin.tx_extensionkey.wrapItemAndSub =` :ref:`t3tsref:data-type-wrap`
-
-Wraps the whole item and any submenu concatenated to it.
 
 
 .. _ts-plugin-tx-extensionkey-substelementUid:
@@ -91,6 +81,16 @@ element html-code (after wrapped in allWrap_) are substituted with the
 uid number of the menu item. This is useful if you want to insert an
 identification code in the HTML in order to manipulate properties with
 JavaScript.
+
+
+.. _ts-plugin-tx-extensionkey-wrapitemandsub:
+
+wrapItemAndSub
+""""""""""""""
+
+:typoscript:`plugin.tx_extensionkey.wrapItemAndSub =` :ref:`t3tsref:data-type-wrap`
+
+Wraps the whole item and any submenu concatenated to it.
 
 
 .. _configuration-faq:
