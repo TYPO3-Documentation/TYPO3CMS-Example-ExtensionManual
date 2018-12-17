@@ -31,7 +31,7 @@ alphabetical for easier access.
 
 When detailing data types or standard TypoScript
 features, don't hesitate to cross-link to the TypoScript
-Reference as shown below. See the :file:`Settings.yml`
+Reference as shown below. See the :file:`Settings.cgf`
 file for the declaration of cross-linking keys.
 
 
