@@ -3,6 +3,7 @@
 
 .. _user-manual:
 
+============
 Users Manual
 ============
 
@@ -51,12 +52,10 @@ as a neutral TYPO3 CMS instance.
 
    Default Backend view (caption of the image)
 
-   The Backend view of TYPO3 after the user has clicked on module "Page". (legend of the image)
-
 
 .. _user-faq:
 
 FAQ
----
+===
 
 Possible subsection: FAQ

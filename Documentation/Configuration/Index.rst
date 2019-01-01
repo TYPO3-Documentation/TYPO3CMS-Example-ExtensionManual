@@ -9,10 +9,27 @@ Configuration
 
 Target group: **Developers, Integrators**
 
-How to configure the extension.
+How to configure the extension. Try to make it easy to configure the extension.
+Give a minimal example or a typical example.
 
-Language should be technical, assuming integrator or developer knowledge of TYPO3.
-Small examples/visuals are always encouraged.
+
+Minimal Example
+===============
+
+- Is it necessary to include a static template file?
+- For example add a code snippet with comments
+
+Minimal example of TypoScript:
+
+.. code-block:: none
+
+   plugin.tx_myextension.settings {
+      # configure basic email settings
+      email {
+         subject = Some subject
+         from = someemail@domain.de
+      }
+   }
 
 .. _configuration-typoscript:
 
@@ -23,14 +40,16 @@ Possible subsections: Reference of TypoScript options.
 The construct below show the recommended structure for
 TypoScript properties listing and description.
 
-Properties should be listed in the order in which they
-are executed by your extension, but the first should be
-alphabetical for easier access.
-
 When detailing data types or standard TypoScript
 features, don't hesitate to cross-link to the TypoScript
-Reference as shown below. See the :file:`Settings.cgf`
-file for the declaration of cross-linking keys.
+Reference as shown below.
+
+
+See `Hyperlinks & Cross-Referencing <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/Hyperlinks.html>`
+for information about how to use cross-references.
+
+See the :file:`Settings.cgf` file for the declaration of cross-linking keys.
+You can add more keys besides tsref.
 
 
 Properties

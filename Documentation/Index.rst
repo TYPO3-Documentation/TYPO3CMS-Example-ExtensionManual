@@ -1,6 +1,9 @@
 .. include:: Includes.txt
 
 
+.. Every manual should have a start label for cross-referencing to
+.. start page. Do not remove this!
+
 .. _start:
 
 =============================================================
@@ -25,7 +28,7 @@ Extension Name
       comma,separated,list,of,keywords
 
    :Copyright:
-      2013-2015
+      2013-2019
 
    :Author:
       Your name
@@ -48,14 +51,16 @@ Extension Name
 
 .. toctree::
    :maxdepth: 3
-   :titlesonly:
+
 
    Introduction/Index
+   User/Index
    Installation/Index
    Configuration/Index
-   User/Index
    Developer/Index
    KnownProblems/Index
    ToDoList/Index
    ChangeLog/Index
+   Support/Index
+   Contribute/Index
    Links

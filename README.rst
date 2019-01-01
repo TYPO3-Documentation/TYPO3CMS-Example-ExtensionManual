@@ -1,17 +1,28 @@
 Extension Manual
 ================
 
-About this repository
+About this Repository
 ---------------------
 
 This is a template manual aiming to help developers when it comes to documentation.
 The template provides a structure that a developer can use and
 many useful snippets and examples. Documentation is written in reST format.
 
+Documentation Structure
+-----------------------
+
 Your manual may be comprised of the whole `Documentation` folder
 or just of this README file. More information about the structure
 of the files can be found in `Directory and File Names`_ in "Writing
 Documentation".
+
+If you keep the Documentation folder, it should include the files Index.rst,
+Includes.txt and Settings.cfg. Everything else can be changed and removed.
+If you do not want to have a "Known Problems" or "Todo List" in your documentation,
+remove these directories!
+
+Just be sure to change the toctree at the bottom of file:`Documentation/Index.rst`
+to include files that actually exit!
 
 Further information
 -------------------
