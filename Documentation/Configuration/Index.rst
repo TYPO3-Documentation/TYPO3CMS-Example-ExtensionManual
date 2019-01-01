@@ -3,23 +3,21 @@
 
 .. _configuration:
 
-Configuration Reference
-=======================
+=============
+Configuration
+=============
 
-Technical information: Installation, Reference of TypoScript options,
-configuration options on system level, how to extend it, the technical
-details, how to debug it and so on.
+Target group: **Developers, Integrators**
 
-Language should be technical, assuming developer knowledge of TYPO3.
+How to configure the extension.
+
+Language should be technical, assuming integrator or developer knowledge of TYPO3.
 Small examples/visuals are always encouraged.
-
-Target group: **Developers**
-
 
 .. _configuration-typoscript:
 
 TypoScript Reference
---------------------
+====================
 
 Possible subsections: Reference of TypoScript options.
 The construct below show the recommended structure for
@@ -36,33 +34,33 @@ file for the declaration of cross-linking keys.
 
 
 Properties
-^^^^^^^^^^
+==========
 
 .. container:: ts-properties
 
-	=========================== ===================================== ======================= ====================
-	Property                    Data type                             :ref:`t3tsref:stdwrap`  Default
-	=========================== ===================================== ======================= ====================
-	allWrap_                    :ref:`t3tsref:data-type-wrap`         yes                     :code:`<div>|</div>`
-	`subst\_elementUid`_        :ref:`t3tsref:data-type-boolean`      no                      0
-	wrapItemAndSub_             :ref:`t3tsref:data-type-wrap`
-	=========================== ===================================== ======================= ====================
+   =========================== ===================================== ======================= ====================
+   Property                    Data type                             :ref:`t3tsref:stdwrap`  Default
+   =========================== ===================================== ======================= ====================
+   allWrap_                    :ref:`t3tsref:data-type-wrap`         yes                     :code:`<div>|</div>`
+   `subst\_elementUid`_        :ref:`t3tsref:data-type-boolean`      no                      0
+   wrapItemAndSub_             :ref:`t3tsref:data-type-wrap`
+   =========================== ===================================== ======================= ====================
 
 
 Property details
-^^^^^^^^^^^^^^^^
+================
 
 .. only:: html
 
-	.. contents::
-		:local:
-		:depth: 1
+   .. contents::
+      :local:
+      :depth: 1
 
 
 .. _ts-plugin-tx-extensionkey-allwrap:
 
 allWrap
-"""""""
+-------
 
 :typoscript:`plugin.tx_extensionkey.allWrap =` :ref:`t3tsref:data-type-wrap`
 
@@ -72,7 +70,7 @@ Wraps the whole item.
 .. _ts-plugin-tx-extensionkey-substelementUid:
 
 subst_elementUid
-""""""""""""""""
+----------------
 
 :typoscript:`plugin.tx_extensionkey.subst_elementUid =` :ref:`t3tsref:data-type-boolean`
 
@@ -86,7 +84,7 @@ JavaScript.
 .. _ts-plugin-tx-extensionkey-wrapitemandsub:
 
 wrapItemAndSub
-""""""""""""""
+--------------
 
 :typoscript:`plugin.tx_extensionkey.wrapItemAndSub =` :ref:`t3tsref:data-type-wrap`
 
@@ -96,6 +94,6 @@ Wraps the whole item and any submenu concatenated to it.
 .. _configuration-faq:
 
 FAQ
----
+===
 
 Possible subsection: FAQ
