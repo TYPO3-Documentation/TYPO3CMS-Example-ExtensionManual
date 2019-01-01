@@ -3,9 +3,9 @@
 
 .. _contribute:
 
-===================
-Contribute & Donate
-===================
+==========
+Contribute
+==========
 
 Do you want people to contribute to your extension?
 
@@ -16,7 +16,7 @@ core and for TYPO3 documentation.
 If your project is hosted on GitHub, it is a good idea to add a file:`CONTRIBUTING.rst`
 file. This sample template manual has one. A link to that file will automatically
 be displayed by GitHub if people enter the issues section of your project for the first time
-or create an issue, so it is a good idea to include a file:`CONTRIBUTING.rst`.
+or create an issue.
 
 The file:`CONTRIBUTING.rst` will not be displayed, when your extension is rendered on
 docs.typo3.org though (because file:`CONTRIBUTING.rst` is outside of the scope of

@@ -3,6 +3,7 @@
 
 .. _developer:
 
+================
 Developer Corner
 ================
 
@@ -14,7 +15,7 @@ Use this section for *providing code examples* or any **useful** information cod
 .. _developer-hooks:
 
 Hooks
------
+=====
 
 Possible hook examples. Input parameters are:
 
@@ -31,7 +32,7 @@ Use parameter :code:`$table` to retrieve the table name...
 .. _developer-api:
 
 API
----
+===
 
 How to use the API...
 
