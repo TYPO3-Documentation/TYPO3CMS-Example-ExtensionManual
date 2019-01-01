@@ -28,8 +28,8 @@ Further information
 -------------------
 
 For further information about writing TYPO3 documentation, please see
-`Writing Documentation`_ and specifically in that manual
-`Writing Documentation for an Extension`_.
+`Writing Documentation <https://docs.typo3.org/typo3cms/HowToDocument/>`__ and specifically in that manual
+`How to Start Documentation for Your TYPO3 Extension <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocForExtension/CreateFromScratch.html>`__.
 
 Found a problem in this repo?
 -----------------------------
@@ -45,8 +45,6 @@ but your friends tend to be rather disappointed when their presents
 arrive in supermarket carrier bags. (Documentation-Driven Design quote)
 
 .. _Adding documentation: https://docs.typo3.org/typo3cms/CoreApiReference/ExtensionArchitecture/Documentation/Index.html
-.. _Writing Documentation: https://docs.typo3.org/typo3cms/HowToDocument/
 .. _Directory and File Names: https://docs.typo3.org/typo3cms/HowToDocument/GeneralConventions/DirectoryFilenames.html
-.. _Writing Documentation for an Extension: https://docs.typo3.org/typo3cms/HowToDocument/WritingDocForExtension/Index.html
 .. _Help & Support: https://docs.typo3.org/typo3cms/HowToDocument/HowToGetHelp.html
 .. _Issue: https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues
