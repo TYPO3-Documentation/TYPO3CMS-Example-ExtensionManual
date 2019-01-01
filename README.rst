@@ -22,7 +22,7 @@ If you do not want to have a "Known Problems" or "Todo List" in your documentati
 remove these directories!
 
 Just be sure to change the toctree at the bottom of file:`Documentation/Index.rst`
-to include files that actually exit!
+to include files that actually exist!
 
 Further information
 -------------------
