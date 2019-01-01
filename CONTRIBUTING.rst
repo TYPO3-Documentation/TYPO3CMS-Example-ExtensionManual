@@ -11,8 +11,10 @@ Create Issues
 Make changes
 ============
 
-In order to make changes on this repository, either directly edit on GitHub or fork and clone the repository, make the change and
-create a pull request.
+In order to make changes on this repository, either directly edit on GitHub or fork and clone
+the repository, make the change and create a pull request.
+
+See the GitHub documentation `Create a pull request <https://help.github.com/articles/creating-a-pull-request/>`__.
   
 Get help
 ========
