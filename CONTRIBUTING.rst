@@ -4,7 +4,9 @@ Contribute to TYPO3 Documentation
 Create Issues
 =============
 
-* If you find something missing or something is wrong in this repository, you are welcome to write an issue describing the problem. 
+* If you find something missing or something is wrong in this repository, you are welcome to write an 
+  `issue <https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues/new>`__ 
+  describing the problem. 
 * If you can, please try to fix the problem yourself. 
 * For minor changes, it is not necessary to create an issue first. 
 
