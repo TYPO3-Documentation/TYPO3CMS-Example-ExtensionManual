@@ -22,7 +22,7 @@ Get help
 ========
 
 If you need help with contributing to the docs, see 
-`How to get Help <https://docs.typo3.org/typo3cms/HowToDocument/HowToGetHelp.htm>`__.
+`Help & Support <https://docs.typo3.org/typo3cms/HowToDocument/HowToGetHelp.htm>`__.
 
 Contribute to TYPO3 Core
 ========================
