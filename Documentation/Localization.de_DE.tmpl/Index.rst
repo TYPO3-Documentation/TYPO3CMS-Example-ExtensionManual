@@ -9,52 +9,52 @@
 
 .. only:: html
 
-	:Klassifikation:
-		extension_key
+   :Klassifikation:
+      extension_key
 
-	:Version:
-		|release|
+   :Version:
+      |release|
 
-	:Sprache:
-		de
+   :Sprache:
+      de
 
-	:Beschreibung:
-		Geben Sie eine Beschreibung ein.
+   :Beschreibung:
+      Geben Sie eine Beschreibung ein.
 
-	:Schlüsselwörter:
-		komma-getrennte,Liste,von,Schlüsselwörtern
+   :Schlüsselwörter:
+      komma-getrennte,Liste,von,Schlüsselwörtern
 
-	:Copyright:
-		###YEAR###
+   :Copyright:
+      ###YEAR###
 
-	:Autor:
-		###AUTHOR###
+   :Autor:
+      ###AUTHOR###
 
-	:E-Mail:
-		author@example.com
+   :E-Mail:
+      author@example.com
 
-	:Lizenz:
-		Dieses Dokument wird unter der Open Publication License, siehe
-		http://www.opencontent.org/openpub/ veröffentlicht.
+   :Lizenz:
+      Dieses Dokument wird unter der Open Publication License, siehe
+      http://www.opencontent.org/openpub/ veröffentlicht.
 
-	:Gerendert:
-		|today|
+   :Gerendert:
+      |today|
 
-	Der Inhalt dieses Dokuments bezieht sich auf TYPO3,
-	ein GNU/GPL CMS-Framework auf `www.typo3.org <https://typo3.org/>`__.
+   Der Inhalt dieses Dokuments bezieht sich auf TYPO3,
+   ein GNU/GPL CMS-Framework auf `www.typo3.org <https://typo3.org/>`__.
 
 
-	**Inhaltsverzeichnis**
+   **Inhaltsverzeichnis**
 
 .. toctree::
-	:maxdepth: 3
-	:titlesonly:
+   :maxdepth: 3
+   :titlesonly:
 
-..	Introduction/Index
-..	UserManual/Index
-..	AdministratorManual/Index
-..	Configuration/Index
-..	DeveloperCorner/Index
-..	KnownProblems/Index
-..	ToDoList/Index
-..	ChangeLog/Index
+..   Introduction/Index
+..   UserManual/Index
+..   AdministratorManual/Index
+..   Configuration/Index
+..   DeveloperCorner/Index
+..   KnownProblems/Index
+..   ToDoList/Index
+..   ChangeLog/Index

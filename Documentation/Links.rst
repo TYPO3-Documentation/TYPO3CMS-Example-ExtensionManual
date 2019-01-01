@@ -15,13 +15,13 @@ Settings.cfg.
    https://packagist.org/packages/<username>/<extension key>
 
 :TER:
-	https://typo3.org/extensions/repository/view/<extension key>
+   https://typo3.org/extensions/repository/view/<extension key>
 
 :Issues:
-	https://github.com/<username>/<extension key>/issues
+   https://github.com/<username>/<extension key>/issues
 
 :GitHub Repository:
-	https://github.com/<username>/<extension key>
+   https://github.com/<username>/<extension key>
 
 :Contact:
-	`@<username> <https://twitter.com/your-username>`__
+   `@<username> <https://twitter.com/your-username>`__
