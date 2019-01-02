@@ -1,5 +1,15 @@
+\|
+`Contributing <CONTRIBUTING.md>`__  \|
+`Help & Support <https://typo3.org/help>`__ \|
+`Settings <Documentation/Settings.cfg>`__ \|
+
 Extension Manual
 ================
+
+:Repository:  https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual
+:Read online: https://docs.typo3.org/typo3cms/ExtensionManualExample/
+
+
 
 About this Repository
 ---------------------
