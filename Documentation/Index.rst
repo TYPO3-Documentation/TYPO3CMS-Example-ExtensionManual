@@ -62,5 +62,4 @@ Extension Name
    ToDoList/Index
    ChangeLog/Index
    Support/Index
-   Contribute/Index
    Links
