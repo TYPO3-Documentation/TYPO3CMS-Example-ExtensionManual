@@ -1,0 +1,7 @@
+{
+    "name": "typo3-documentation/typo3cms-example-extensionmanual",
+    "description": "Sample extension manual to use with your own extensions",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    }
+}
