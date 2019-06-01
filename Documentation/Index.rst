@@ -1,3 +1,6 @@
+.. every .rst file should include Includes.txt
+.. use correct path!
+
 .. include:: Includes.txt
 
 
@@ -10,53 +13,78 @@
 Extension Name
 =============================================================
 
-.. only:: html
+:Extension key:
+   <extension key>
 
-   :Classification:
-      <extension key>
+:Version:
+   |release|
 
-   :Version:
-      |release|
+:Language:
+   en
 
-   :Language:
-      en
+:Copyright:
+   2019-2019
 
-   :Description:
-      Manual covering TYPO3 extension <extension name>
+:Authors:
+   Your name
 
-   :Keywords:
-      comma,separated,list,of,keywords
+:Email:
+   you@domain.tld
 
-   :Copyright:
-      2013-2019
+:License:
+   This extension documentation is published under the
+   `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__ (Creative Commons)
+   license
 
-   :Author:
-      Your name
+:Status:    Fully revised (July, 2018)
 
-   :Email:
-      you@domain.tld
+**TYPO3**
 
-   :License:
-      This document is published under the Open Publication License
-      available from http://www.opencontent.org/openpub/
-
-   :Rendered:
-      |today|
-
-   The content of this document is related to TYPO3,
-   a GNU/GPL CMS/Framework available from `www.typo3.org <https://typo3.org/>`__.
+   The content of this document is related to TYPO3 CMS,
+   a GNU/GPL CMS/Framework available from `typo3.org
+   <https://typo3.org/>`_ .
 
 
-   **Table of Contents**
+**About this manual:**
+
+   Description ...
+
+
+**Community documentation:**
+
+   This document is *not* official TYPO3 documentation.
+
+   It is maintained as part of a third party extension.
+
+   If you find an error or something is missing, please:
+   `Report a Problem <https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues/new>`__
+
+**Extension Manual**
+
+   This documentation is for the TYPO3 extension <extkey>.
+
+
+**For Contributors**
+
+   You are welcome to help in improving this guide. Just click on "Edit me on GitHub"
+   on the top right to submit your change request.
+
+
+**Sitemap:**
+
+   :ref:`sitemap`
+
 
 .. toctree::
    :maxdepth: 3
+   :hidden:
 
 
    Introduction/Index
-   User/Index
+   Editor/Index
    Installation/Index
    Configuration/Index
    Developer/Index
    KnownProblems/Index
-   Links
+   Sitemap
+

@@ -11,10 +11,7 @@ Installation
 Target group: **Administrators**
 
 - How should the extension be installed?
-- Are there dependencies to resolved?
+- Are there dependencies to be resolved?
 
-
-Next step
-=========
-
-:ref:`Configure extension <configuration>`.
+You can also refer to general TYPO3 documentation, for example the
+:ref:`t3install:start`.

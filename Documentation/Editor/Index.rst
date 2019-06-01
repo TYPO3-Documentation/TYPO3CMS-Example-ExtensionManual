@@ -1,15 +1,15 @@
 .. include:: ../Includes.txt
 
 
-.. _user-manual:
+.. _for-editors:
 
-============
-Users Manual
-============
+===========
+For Editors
+===========
 
 Target group: **Editors**
 
-Here should be described how to use the extension from the editor perspective.
+How to use the extension from the editor perspective.
 
 - How does it work?
 
@@ -23,6 +23,8 @@ Here should be described how to use the extension from the editor perspective.
 - How to install the plugin on a web page?
 
 - What options are available?
+
+- **add a new line before and after a bullet list and between sublevels**
 
 Language should be non-technical, explaining, using small examples.
 Don't use to many acronyms unless they have been explained.
@@ -39,21 +41,23 @@ for example).
 
 .. important::
 
-   Remember to always say "please" when asking your software to
-   do something.
+   Do not overuse admonitions like notes, important, etc.!
 
 Provide screenshots as needed for making things clear. When creating
-screenshots, try using the `Introduction Package <http://demo.typo3.org/>`_
-as a neutral TYPO3 CMS instance.
+screenshots, try using the Official Introduction Package.
 
 .. figure:: ../Images/UserManual/BackendView.png
-   :width: 500px
+   :class: with-shadow
    :alt: Backend view
 
    Default Backend view (caption of the image)
 
+.. important::
 
-.. _user-faq:
+   Do not use huge full-screen images, unless it is necessary and serves
+   a good purpose.
+
+.. _editor-faq:
 
 FAQ
 ===
