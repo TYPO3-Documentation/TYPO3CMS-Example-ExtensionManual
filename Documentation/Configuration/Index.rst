@@ -21,7 +21,10 @@ Minimal Example
 
 Minimal example of TypoScript:
 
-.. code-block:: none
+- Code-blocks have support for syntax highlighting
+- Use any supported language
+
+.. code-block:: typoscript
 
    plugin.tx_myextension.settings {
       # configure basic email settings

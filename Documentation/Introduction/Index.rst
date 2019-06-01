@@ -8,6 +8,16 @@ Introduction
 ============
 
 
+.. tip::
+
+   New to reStructuredText and Sphinx?
+
+   Get an introduction:
+   https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/Index.html
+
+   Use this cheat sheet as reference:
+   https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/CheatSheet.html
+
 .. _what-it-does:
 
 What does it do?
@@ -34,9 +44,10 @@ This chapter should help people figure how the extension works. Remove it
 if not relevant.
 
 .. figure:: ../Images/IntroductionPackage.png
-   :width: 500px
+   :class: with-shadow
    :alt: Introduction Package
+   :width: 300px
 
    Introduction Package just after installation (caption of the image)
 
-   How the Frontend of the Introduction Package looks like just after installation (legend of the image)
+How the Frontend of the Introduction Package looks like just after installation (legend of the image)
