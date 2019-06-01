@@ -59,8 +59,4 @@ Extension Name
    Configuration/Index
    Developer/Index
    KnownProblems/Index
-   ToDoList/Index
-   ChangeLog/Index
-   Support/Index
-   Contribute/Index
    Links
