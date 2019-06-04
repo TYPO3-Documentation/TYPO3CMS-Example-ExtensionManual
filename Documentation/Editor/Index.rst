@@ -9,26 +9,20 @@ For Editors
 
 Target group: **Editors**
 
-How to use the extension from the editor perspective.
+How to use the extension from the perspective of an editor.
 
-- How does it work?
+Think of common tasks that an editor is likely to perform in your extension.
 
-  - works well when doing this.
+- How do they complete them?
+- What problems are they likely to encounter?
+- What access do they require?
+- What configuration options are available to them?
 
-  - does not work so well when doing that
-    but we can live with it.
+One example could be adding a frontend plugin to a page and then configuring it.
 
-  - **mind indentation when nesting lists**.
+Language should be non-technical, aim to avoid using acronyms where possible.
 
-- How to install the plugin on a web page?
-
-- What options are available?
-
-- **add a new line before and after a bullet list and between sublevels**
-
-Language should be non-technical, explaining, using small examples.
-Don't use to many acronyms unless they have been explained.
-Don't be confusing by putting information targeting administrators.
+Be mindful that editors typically dont have administrative access to the installation.
 
 .. tip::
 
