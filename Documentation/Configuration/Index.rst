@@ -9,14 +9,18 @@ Configuration
 
 Target group: **Developers, Integrators**
 
-How to configure the extension. Try to make it easy to configure the extension.
-Give a minimal example or a typical example.
+How is the extension configured? Aim to provide simple instructions detailing 
+how the extension is configured. Always assume that the user has no prior experience 
+of using your extension.
+
+Try and provide a typical use case for your extension and detail each of the 
+steps required to get the extension running.
 
 
-Minimal Example
+Typical Example
 ===============
 
-- Is it necessary to include a static template file?
+- Do we need to include a static template?
 - For example add a code snippet with comments
 
 Minimal example of TypoScript:
