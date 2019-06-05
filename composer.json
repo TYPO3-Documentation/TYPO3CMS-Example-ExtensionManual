@@ -1,5 +1,9 @@
 {
   "name": "typo3/guide-example-extension-manual",
   "type": "typo3-cms-documentation",
-  "description": "TYPO3 Example Extension Manual"
+  "description": "TYPO3 Example Extension Manual",
+  "license": "CC-BY-NC-SA-4.0",
+  "require": {
+    "typo3/cms-core": "^9.5"
+  }
 }
