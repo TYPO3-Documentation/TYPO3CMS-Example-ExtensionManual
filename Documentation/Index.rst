@@ -66,7 +66,7 @@ Extension Name
 
 **For Contributors**
 
-   You are welcome to help in improving this guide. Just click on "Edit me on GitHub"
+   You are welcome to help improve this guide. Just click on "Edit me on GitHub"
    on the top right to submit your change request.
 
 
