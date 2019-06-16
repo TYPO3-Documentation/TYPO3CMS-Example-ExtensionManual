@@ -13,12 +13,6 @@
 Extension Name
 =============================================================
 
-:Extension name:
-   {extension.name}
-
-:Extension key:
-   {extension.extensionKey}
-
 :Version:
    |release|
 
