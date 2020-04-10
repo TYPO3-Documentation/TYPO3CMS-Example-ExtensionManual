@@ -9,11 +9,11 @@ Configuration
 
 Target group: **Developers, Integrators**
 
-How is the extension configured? Aim to provide simple instructions detailing 
-how the extension is configured. Always assume that the user has no prior experience 
-of using your extension.
+How is the extension configured? Aim to provide simple instructions detailing
+how the extension is configured. Always assume that the user has no prior
+experience of using your extension.
 
-Try and provide a typical use case for your extension and detail each of the 
+Try and provide a typical use case for your extension and detail each of the
 steps required to get the extension running.
 
 
@@ -34,7 +34,7 @@ Minimal example of TypoScript:
       # configure basic email settings
       email {
          subject = Some subject
-         from = someemail@domain.de
+         from = someemail@example.org
       }
    }
 
@@ -52,10 +52,11 @@ features, don't hesitate to cross-link to the TypoScript
 Reference as shown below.
 
 
-See `Hyperlinks & Cross-Referencing <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/Hyperlinks.html>`
-for information about how to use cross-references.
+See :ref:`Hyperlinks & Cross-Referencing
+<h2document:how-to-document-hyperlinks>` for information about how to use
+cross-references.
 
-See the :file:`Settings.cgf` file for the declaration of cross-linking keys.
+See the :file:`Settings.cfg` file for the declaration of cross-linking keys.
 You can add more keys besides tsref.
 
 

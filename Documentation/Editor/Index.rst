@@ -22,16 +22,16 @@ One example could be adding a frontend plugin to a page and then configuring it.
 
 Language should be non-technical, aim to avoid using acronyms where possible.
 
-Be mindful that editors typically dont have administrative access to the installation.
+Be mindful that editors typically don't have administrative access to the
+installation.
 
 .. tip::
 
    Take a break from time to time.
 
-Admonitions should be used to warn the users about potential
-pitfalls, attract their attention to important elements
-or just add some notes for for information (further reading,
-for example).
+Admonitions should be used to warn the users about potential pitfalls, attract
+their attention to important elements or just add some notes for for information
+(further reading, for example).
 
 .. important::
 
