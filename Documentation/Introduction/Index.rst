@@ -1,12 +1,10 @@
 .. include:: ../Includes.txt
 
-
 .. _introduction:
 
 ============
 Introduction
 ============
-
 
 .. tip::
 
@@ -35,25 +33,23 @@ install and use this extension.
 
 .. important::
 
-   Don't forget to repeat your extension's version number in the
-   :file:`Settings.cfg` file, in the :code:`release` property. It will be
-   automatically picked up on the cover page by the :code:`|release|`
-   substitution.
-
+   Don't forget to set extension's version number in :file:`Settings.cfg` file,
+   in the :code:`release` property.
+   It will be automatically picked up on the cover page by the :code:`|release|` substitution.
 
 .. _screenshots:
 
 Screenshots
 ===========
 
-This chapter should help people understand how the extension works. Remove it
-if it is not relevant.
+This chapter should help people understand how the extension works.
+Remove it if it is not relevant.
 
 .. figure:: ../Images/IntroductionPackage.png
    :class: with-shadow
    :alt: Introduction Package
    :width: 300px
 
-   Introduction Package just after installation (caption of the image)
+   Introduction Package after installation (caption of the image).
 
-How the Frontend of the Introduction Package looks like just after installation (legend of the image)
+How the Frontend of the Introduction Package looks like after installation (legend of the image).
