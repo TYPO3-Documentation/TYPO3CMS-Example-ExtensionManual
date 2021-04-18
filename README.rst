@@ -21,7 +21,7 @@ many useful snippets and examples. Documentation is written in reST format.
 Documentation Structure
 -----------------------
 
-Your manual may be comprised of the whole `Documentation` folder
+Your manual may be comprised of the whole :file:`Documentation` folder
 or just of this README file. More information about the structure
 of the files can be found in `Directory and File Names`_ in "Writing
 Documentation".
