@@ -25,7 +25,7 @@ How to use the API...
    );
    $stuff->do();
 
-or in some other language:
+or in another language:
 
 .. code-block:: javascript
    :linenos:
