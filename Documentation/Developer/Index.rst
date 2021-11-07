@@ -62,10 +62,14 @@ the source code.
       :returntype: array
       :returns: List of modules to require.
 
-   .. php:method:: getHeight()
+   .. php:method:: setDate($year, $month, $day)
 
-      :returntype: int
-      :returns: Height of a widget in rows (1-6).
+      Set the date.
+
+      :param int $year: The year.
+      :param int $month: The month.
+      :param int $day: The day.
+      :returns: Either false on failure, or the datetime object for method chaining.
 
 
 Examples
