@@ -37,6 +37,6 @@ Minimal example of TypoScript:
       # configure basic email settings
       email {
          subject = Some subject
-         from = someemail@domain.de
+         from = someemail@example.org
       }
    }
