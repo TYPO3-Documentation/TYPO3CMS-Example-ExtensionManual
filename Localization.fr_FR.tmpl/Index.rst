@@ -31,7 +31,7 @@
       ###AUTHOR###
 
    :E-mail:
-      author@example.com
+      author@example.org
 
    :Licence:
       Ce document est publié sous la licence de publication libre

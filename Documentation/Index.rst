@@ -22,7 +22,7 @@ Extension Name
    Your name
 
 :Email:
-   you@domain.tld
+   you@example.org
 
 :License:
    This extension documentation is published under the
