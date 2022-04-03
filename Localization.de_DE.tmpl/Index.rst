@@ -1,60 +1,56 @@
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
+============
+<project-de>
+============
 
-.. _start:
+:Extension-Schlüssel:
+   <extension-key>
 
-=============================================================
-###PROJECT_NAME### (Deutsch)
-=============================================================
+:Paketname:
+   <package-name>
 
-.. only:: html
+:Version:
+   |release|
 
-   :Klassifikation:
-      extension_key
+:Sprache:
+   de
 
-   :Version:
-      |release|
+:Autor:
+   <author>
 
-   :Sprache:
-      de
+:Lizenz:
+   Dieses Dokument wird unter der
+   `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
+   Lizenz veröffentlicht.
 
-   :Beschreibung:
-      Geben Sie eine Beschreibung ein.
+:Erstellt:
+   |today|
 
-   :Schlüsselwörter:
-      komma-getrennte,Liste,von,Schlüsselwörtern
+----
 
-   :Copyright:
-      ###YEAR###
+<abstract-de>
 
-   :Autor:
-      ###AUTHOR###
+----
 
-   :E-Mail:
-      author@example.org
-
-   :Lizenz:
-      Dieses Dokument wird unter der Open Publication License, siehe
-      http://www.opencontent.org/openpub/ veröffentlicht.
-
-   :Gerendert:
-      |today|
-
-   Der Inhalt dieses Dokuments bezieht sich auf TYPO3,
-   ein GNU/GPL CMS-Framework auf `www.typo3.org <https://typo3.org/>`__.
-
-
-   **Inhaltsverzeichnis**
+**Inhaltsverzeichnis:**
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :titlesonly:
 
-..   Introduction/Index
-..   UserManual/Index
-..   AdministratorManual/Index
-..   Configuration/Index
-..   DeveloperCorner/Index
-..   KnownProblems/Index
-..   ToDoList/Index
-..   ChangeLog/Index
+.. Introduction/Index
+.. Installation/Index
+.. Configuration/Index
+.. Editor/Index
+.. Templates/Index
+.. Developer/Index
+.. KnownProblems/Index
+
+.. Metamenü
+
+.. toctree::
+   :hidden:
+
+.. Sitemap
+.. genindex

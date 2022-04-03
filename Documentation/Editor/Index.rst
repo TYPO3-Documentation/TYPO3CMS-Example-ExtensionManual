@@ -34,7 +34,7 @@ Do not overuse admonitions like notes, important, etc.!
 Provide screenshots as needed for making things clear.
 When creating screenshots, try using the Official Introduction Package.
 
-.. figure:: /Images/UserManual/BackendView.png
+.. figure:: /Images/BackendView.png
    :class: with-shadow
    :alt: Backend view
 
