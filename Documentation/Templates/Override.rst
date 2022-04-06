@@ -11,7 +11,7 @@ This documentation won't bring you all information about Fluid but only the
 most important things you need for using it. You can get
 more information in the section :ref:`Fluid templates of the Sitepackage tutorial
 <t3sitepackage:fluid-templates>`. A complete reference of Fluid ViewHelpers
-provided by TYPO3 can be found in the  :ref:`ViewHelper Reference <t3viewhelper:start>`
+provided by TYPO3 can be found in the  :doc:`ViewHelper Reference <t3viewhelper:Index>`
 
 
 .. index:: Templates; TypoScript
@@ -25,8 +25,8 @@ As any Extbase based extension, you can find the templates in the directory
 If you want to change a template, copy the desired files to the directory
 where you store the templates.
 
-We suggest that you use a sitepackage extension. Learn how to :ref:`Create a
-sitepackage extension<t3sitepackage:start>`.
+We suggest that you use a sitepackage extension. Learn how to
+:doc:`Create a sitepackage extension <t3sitepackage:Index>`.
 
 .. code-block:: typoscript
 

@@ -10,4 +10,4 @@ Installation
 *  Are there any dependencies that need to be resolved?
 
 References to general TYPO3 documentation are possible,
-for example the :ref:`t3install:start`.
+for example the :doc:`t3install:Index`.
