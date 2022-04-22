@@ -1,16 +1,14 @@
-.. every .rst file should include Includes.txt
-.. use correct path!
-
 .. include:: /Includes.rst.txt
 
-.. Every manual should have a start label for cross-referencing to
-.. start page. Do not remove this!
+=========
+<project>
+=========
 
-.. _start:
+:Extension key:
+   <extension-key>
 
-=============================================================
-Extension Name
-=============================================================
+:Package name:
+   <package-name>
 
 :Version:
    |release|
@@ -18,61 +16,41 @@ Extension Name
 :Language:
    en
 
-:Authors:
-   Your name
-
-:Email:
-   you@example.org
+:Author:
+   <author>
 
 :License:
-   This extension documentation is published under the
-   `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__ (Creative Commons)
-   license
+   This document is published under the
+   `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
+   license.
 
-{extension.description}
+:Rendered:
+   |today|
 
-**TYPO3**
+----
 
-The content of this document is related to TYPO3 CMS,
-a GNU/GPL CMS/Framework available from `typo3.org <https://typo3.org/>`_ .
+<abstract>
 
-**Community Documentation**
+----
 
-This documentation is community documentation for the TYPO3 extension {extension.name}
-
-It is maintained as part of this third party extension.
-
-If you find an error or something is missing, please:
-`Report a Problem <https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues/new>`__
-
-**Extension Manual**
-
-This documentation is for the TYPO3 extension <extkey>.
-
-..   Note for editors:
-..   temporarily removed from menu:
-..   Introduction/Index
+**Table of Contents:**
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :titlesonly:
 
    Introduction/Index
-
-.. toctree::
-   :maxdepth: 3
-
-   Editor/Index
    Installation/Index
    Configuration/Index
+   Editor/Index
    Templates/Index
    Developer/Index
    KnownProblems/Index
 
+.. Meta Menu
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
 
    Sitemap
    genindex
-   About
-   Targets
