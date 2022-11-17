@@ -11,8 +11,7 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 indent_style = space
-# indent_size is just a modifyable default by ReST. Feel free to set that to 4 to have the same value as in TYPO3 core docs.
-indent_size = 3
+indent_size = 4
 max_line_length = 80
 
 # MD-Files
