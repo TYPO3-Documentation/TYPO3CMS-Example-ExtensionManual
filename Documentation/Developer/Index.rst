@@ -31,45 +31,45 @@ the source code.
 
 ..  php:class:: ExampleInterface
 
-   Has to be implemented by all ...
+    Has to be implemented by all ...
 
-   .. php:method:: methodOne()
+    ..  php:method:: methodOne()
 
-      :returntype: string
-      :returns: Something important
+        :returntype: string
+        :returns: Something important
 
 ..  php:class:: AnotherImportantInterface
 
-   Used for ...
+    Used for ...
 
-   .. php:class:: RequireJsModuleInterface
+    ..  php:class:: RequireJsModuleInterface
 
-   Widgets implementing this interface will add the provided RequireJS modules.
-   Those modules will be loaded in dashboard view if the widget is added at least once.
+    Widgets implementing this interface will add the provided RequireJS modules.
+    Those modules will be loaded in dashboard view if the widget is added at least once.
 
-   .. php:method:: getRequireJsModules()
+    ..  php:method:: getRequireJsModules()
 
-      Returns a list of RequireJS modules that should be loaded, e.g.::
+        Returns a list of RequireJS modules that should be loaded, e.g.::
 
-         return [
-             'TYPO3/CMS/MyExtension/ModuleName',
-             'TYPO3/CMS/MyExtension/Module2Name',
-         ];
+            return [
+                'TYPO3/CMS/MyExtension/ModuleName',
+                'TYPO3/CMS/MyExtension/Module2Name',
+            ];
 
-      See also :ref:`t3coreapi:requirejs` for further information regarding RequireJS
-      in TYPO3 Backend.
+        See also :ref:`t3coreapi:requirejs` for further information regarding RequireJS
+        in TYPO3 Backend.
 
-      :returntype: array
-      :returns: List of modules to require.
+        :returntype: array
+        :returns: List of modules to require.
 
-   .. php:method:: setDate($year, $month, $day)
+    ..  php:method:: setDate($year, $month, $day)
 
-      Set the date.
+        Set the date.
 
-      :param int $year: The year.
-      :param int $month: The month.
-      :param int $day: The day.
-      :returns: Either false on failure, or the datetime object for method chaining.
+        :param int $year: The year.
+        :param int $month: The month.
+        :param int $day: The day.
+        :returns: Either false on failure, or the datetime object for method chaining.
 
 
 Examples
@@ -77,32 +77,32 @@ Examples
 
 A php example::
 
-   // use \TYPO3\CMS\Core\Utility\GeneralUtility;
-   $stuff = GeneralUtility::makeInstance(
-      '\\Foo\\Bar\\Utility\\Stuff'
-   );
-   $stuff->do();
+    // use \TYPO3\CMS\Core\Utility\GeneralUtility;
+    $stuff = GeneralUtility::makeInstance(
+        '\\Foo\\Bar\\Utility\\Stuff'
+    );
+    $stuff->do();
 
 Example in another language:
 
 ..  code-block:: javascript
-   :linenos:
-   :emphasize-lines: 2-4
+    :linenos:
+    :emphasize-lines: 2-4
 
-   $(document).ready(
-      function () {
-         doStuff();
-      }
-   );
+    $(document).ready(
+        function () {
+            doStuff();
+        }
+    );
 
 A YAML example:
 
 ..  code-block:: yaml
 
-   services:
-     Vendor\Extension\EventListener\YourListener:
-       tags:
-         - name: event.listener
-           identifier: 'your-self-choosen-identifier'
-           method: 'methodToConnectToEvent'
-           event: Vendor\MyExtension\Event\MyActionEvent
+    services:
+      Vendor\Extension\EventListener\YourListener:
+        tags:
+          - name: event.listener
+            identifier: 'your-self-choosen-identifier'
+            method: 'methodToConnectToEvent'
+            event: Vendor\MyExtension\Event\MyActionEvent

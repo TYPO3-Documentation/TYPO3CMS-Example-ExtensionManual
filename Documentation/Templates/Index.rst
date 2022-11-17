@@ -9,9 +9,9 @@ Templates
 This chapter is all about templating EXT:myextension
 
 ..  toctree::
-   :maxdepth: 5
-   :titlesonly:
+    :maxdepth: 5
+    :titlesonly:
 
-   Override
-   ViewHelpers
-   Examples
+    Override
+    ViewHelpers
+    Examples

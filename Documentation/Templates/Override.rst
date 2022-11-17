@@ -30,10 +30,10 @@ We suggest that you use a sitepackage extension. Learn how to
 
 ..  code-block:: typoscript
 
-   plugin.tx_myextension {
-      view {
-         templateRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Templates/
-         partialRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Partials/
-         layoutRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Layouts/
-      }
-   }
+    plugin.tx_myextension {
+        view {
+            templateRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Templates/
+            partialRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Partials/
+            layoutRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Layouts/
+        }
+    }

@@ -6,8 +6,8 @@
 Installation
 ============
 
-*  How is the extension installed?
-*  Are there any dependencies that need to be resolved?
+*   How is the extension installed?
+*   Are there any dependencies that need to be resolved?
 
 References to general TYPO3 documentation are possible,
 for example the :doc:`t3install:Index`.

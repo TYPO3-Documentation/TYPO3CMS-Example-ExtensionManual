@@ -13,11 +13,11 @@ If you want to use ViewHelpers from other extensions you need to add the namespa
 declaration at the beginning of the template. The namespace declaration for the
 example extension is::
 
-	{namespace x=MyCompany\MyExtension\ViewHelpers}
+    {namespace x=MyCompany\MyExtension\ViewHelpers}
 
 Now you can use a ViewHelper of news with a code like::
 
-	<x:myCustomViewHelper><!-- some comment --></x:myCustomViewHelper>
+    <x:myCustomViewHelper><!-- some comment --></x:myCustomViewHelper>
 
 All ViewHelpers
 ================
@@ -38,9 +38,9 @@ Render the content of the VH as page title
 
 Code: ::
 
-	<x:exampleTag>{myRecord.title}</x:exampleTag>
+    <x:exampleTag>{myRecord.title}</x:exampleTag>
 
 
 Output: ::
 
-	<xyz>TYPO3 is awesome</xyz>
+    <xyz>TYPO3 is awesome</xyz>

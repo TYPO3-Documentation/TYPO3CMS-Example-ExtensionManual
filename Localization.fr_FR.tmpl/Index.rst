@@ -5,26 +5,26 @@
 ============
 
 :Clé d'extension:
-   <extension-key>
+    <extension-key>
 
 :Nom du package:
-   <package-name>
+    <package-name>
 
 :Version:
-   |release|
+    |release|
 
 :Langue:
-   fr
+    fr
 
 :Auteur:
-   <author>
+    <author>
 
 :Licence:
-   Ce document est publié sous la licence
-   `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__.
+    Ce document est publié sous la licence
+    `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__.
 
 :Généré:
-   |today|
+    |today|
 
 ----
 
@@ -34,22 +34,22 @@
 
 **Sommaire:**
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
+..  toctree::
+    :maxdepth: 2
+    :titlesonly:
 
-.. Introduction/Index
-.. Installation/Index
-.. Configuration/Index
-.. Editor/Index
-.. Templates/Index
-.. Developer/Index
-.. KnownProblems/Index
+..  Introduction/Index
+..  Installation/Index
+..  Configuration/Index
+..  Editor/Index
+..  Templates/Index
+..  Developer/Index
+..  KnownProblems/Index
 
-.. Metamenu
+..  Metamenu
 
-.. toctree::
-   :hidden:
+..  toctree::
+    :hidden:
 
-.. Sitemap
-.. genindex
+..  Sitemap
+..  genindex

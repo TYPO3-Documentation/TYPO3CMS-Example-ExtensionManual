@@ -15,11 +15,11 @@
 ..  role:: sql(code)
 
 ..  role:: tsconfig(code)
-   :class: typoscript
+    :class: typoscript
 
 ..  role:: typoscript(code)
 ..  role:: xml(code)
-   :class: html
+    :class: html
 
 ..  role:: yaml(code)
 
