@@ -1,6 +1,6 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
 
-.. _for-editors:
+..  _for-editors:
 
 ===========
 For Editors
@@ -21,7 +21,7 @@ Language should be non-technical, aim to avoid using acronyms where possible.
 
 Be mindful that editors typically don't have administrative access to the installation.
 
-.. tip::
+..  tip::
 
    Take a break from time to time.
 
@@ -34,7 +34,7 @@ Do not overuse admonitions like notes, important, etc.!
 Provide screenshots as needed for making things clear.
 When creating screenshots, try using the Official Introduction Package.
 
-.. figure:: /Images/BackendView.png
+..  figure:: /Images/BackendView.png
    :class: with-shadow
    :alt: Backend view
 
@@ -42,7 +42,7 @@ When creating screenshots, try using the Official Introduction Package.
 
 Do not use huge full-screen images, unless it is necessary and serves a good purpose.
 
-.. _editor-faq:
+..  _editor-faq:
 
 FAQ
 ===

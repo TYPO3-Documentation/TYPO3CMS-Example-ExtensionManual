@@ -1,5 +1,5 @@
-.. include:: /Includes.rst.txt
-.. _configuration-typoscript:
+..  include:: /Includes.rst.txt
+..  _configuration-typoscript:
 
 TypoScript reference
 ====================
@@ -14,7 +14,7 @@ See :ref:`h2document:how-to-document-hyperlinks` for information about how to us
 
 See the :file:`Settings.cfg` file for the declaration of cross-linking keys.
 
-.. toctree::
+..  toctree::
    :maxdepth: 5
    :titlesonly:
 

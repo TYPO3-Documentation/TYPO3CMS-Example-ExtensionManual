@@ -1,7 +1,7 @@
-.. include:: /Includes.rst.txt
-.. highlight:: php
+..  include:: /Includes.rst.txt
+..  highlight:: php
 
-.. _developer:
+..  _developer:
 
 ================
 Developer corner
@@ -12,7 +12,7 @@ Use this section to provide examples of code or detail any information that woul
 For example explain how a certain feature was implemented.
 
 
-.. _developer-api:
+..  _developer-api:
 
 API
 ===
@@ -27,9 +27,9 @@ used inside of this documentation. For up to date information, please check
 the source code.
 
 
-.. php:namespace:: Vendor\MyExtension\Interfaces
+..  php:namespace:: Vendor\MyExtension\Interfaces
 
-.. php:class:: ExampleInterface
+..  php:class:: ExampleInterface
 
    Has to be implemented by all ...
 
@@ -38,7 +38,7 @@ the source code.
       :returntype: string
       :returns: Something important
 
-.. php:class:: AnotherImportantInterface
+..  php:class:: AnotherImportantInterface
 
    Used for ...
 
@@ -85,7 +85,7 @@ A php example::
 
 Example in another language:
 
-.. code-block:: javascript
+..  code-block:: javascript
    :linenos:
    :emphasize-lines: 2-4
 
@@ -97,7 +97,7 @@ Example in another language:
 
 A YAML example:
 
-.. code-block:: yaml
+..  code-block:: yaml
 
    services:
      Vendor\Extension\EventListener\YourListener:

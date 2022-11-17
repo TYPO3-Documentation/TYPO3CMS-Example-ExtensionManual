@@ -1,9 +1,9 @@
-.. include:: /Includes.rst.txt
-.. highlight:: typoscript
+..  include:: /Includes.rst.txt
+..  highlight:: typoscript
 
-.. index::
+..  index::
    TypoScript; Constants
-.. _configuration-typoscript-constants:
+..  _configuration-typoscript-constants:
 
 Constants
 =========
@@ -11,7 +11,7 @@ Constants
 Enable / disable some options
 -----------------------------
 
-.. confval:: enableThis
+..  confval:: enableThis
 
    :type: bool
    :Default: false
@@ -27,7 +27,7 @@ Enable / disable some options
 Configure page ids
 ------------------
 
-.. confval:: storageId
+..  confval:: storageId
 
    :type: int
    :Default: 0

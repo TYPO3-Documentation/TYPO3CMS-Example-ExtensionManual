@@ -1,7 +1,7 @@
-.. include:: /Includes.rst.txt
-.. highlight:: html
-.. index:: Templates; ViewHelper
-.. _templates-viewhelpers:
+..  include:: /Includes.rst.txt
+..  highlight:: html
+..  index:: Templates; ViewHelper
+..  _templates-viewhelpers:
 
 ==================
 Custom ViewHelpers

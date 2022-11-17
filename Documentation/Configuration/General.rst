@@ -1,6 +1,6 @@
-.. include:: /Includes.rst.txt
-.. index:: Configuration
-.. _configuration-general:
+..  include:: /Includes.rst.txt
+..  index:: Configuration
+..  _configuration-general:
 
 =====================
 General configuration
@@ -14,11 +14,11 @@ Try and provide a typical use case for your extension
 and detail each of the steps required to get the extension running.
 
 
-.. index::
+..  index::
    Configuration; Example
    Configuration; Typical
-.. _configuration_example:
-.. _configuration_typical:
+..  _configuration_example:
+..  _configuration_typical:
 
 Typical example
 ===============
@@ -31,7 +31,7 @@ Minimal example of TypoScript:
 *  Code-blocks have support for syntax highlighting
 *  Use any supported language
 
-.. code-block:: typoscript
+..  code-block:: typoscript
 
    plugin.tx_myextension.settings {
       # configure basic email settings

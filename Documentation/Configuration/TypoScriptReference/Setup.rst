@@ -1,8 +1,8 @@
-.. include:: /Includes.rst.txt
-.. highlight:: typoscript
-.. index::
+..  include:: /Includes.rst.txt
+..  highlight:: typoscript
+..  index::
    TypoScript; Setup
-.. _configuration-typoscript-setup:
+..  _configuration-typoscript-setup:
 
 Setup
 =====
@@ -10,7 +10,7 @@ Setup
 Enable / disable some options
 -----------------------------
 
-.. confval:: enableThat
+..  confval:: enableThat
 
    :type: bool, stdWrap
    :Default: false

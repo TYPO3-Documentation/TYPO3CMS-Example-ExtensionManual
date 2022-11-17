@@ -1,6 +1,6 @@
-.. include:: /Includes.rst.txt
-.. index:: ! Templates
-.. _templates:
+..  include:: /Includes.rst.txt
+..  index:: ! Templates
+..  _templates:
 
 =========
 Templates
@@ -8,7 +8,7 @@ Templates
 
 This chapter is all about templating EXT:myextension
 
-.. toctree::
+..  toctree::
    :maxdepth: 5
    :titlesonly:
 

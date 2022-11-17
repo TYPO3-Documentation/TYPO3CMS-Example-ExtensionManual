@@ -1,8 +1,8 @@
-.. include:: /Includes.rst.txt
-.. highlight:: typoscript
-.. index::
+..  include:: /Includes.rst.txt
+..  highlight:: typoscript
+..  index::
    TSconfig
-.. _configuration-tsconfig:
+..  _configuration-tsconfig:
 
 TSconfig reference
 ==================
@@ -12,20 +12,20 @@ If your extension uses TSconfig you can document it here.
 This section covers all configurations which can be set with TSconfig.
 Every configuration starts with :typoscript:`tx_myextension.`.
 
-.. note::
+..  note::
    Just for clarification: TSconfig is in TYPO3 only used for configurations
    inside the backend!
 
-.. index::
+..  index::
    TSconfig; Page
-.. _configuration-tsconfig_page:
+..  _configuration-tsconfig_page:
 
 User TSconfig
 =============
 
-.. confval values will be added automatically to the index.
+..  confval values will be added automatically to the index.
 
-.. confval:: enableSomething
+..  confval:: enableSomething
 
    :type: bool
    :Default: false
@@ -37,14 +37,14 @@ User TSconfig
       tx_myextension.enableSomething = true
 
 
-.. index::
+..  index::
    TSconfig; Page
-.. _configuration-tsconfig_user:
+..  _configuration-tsconfig_user:
 
 Page TSconfig
 =============
 
-.. confval:: limitSomething
+..  confval:: limitSomething
 
    :type: int
    :Default: 5
@@ -57,7 +57,7 @@ Page TSconfig
 
       tx_myextension.limitSomething = 10
 
-.. confval:: someImportantPages
+..  confval:: someImportantPages
 
    :type: list
    :Default: ''

@@ -1,4 +1,4 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
 
 =========
 <project>
@@ -35,7 +35,7 @@
 
 **Table of Contents:**
 
-.. toctree::
+..  toctree::
    :maxdepth: 2
    :titlesonly:
 
@@ -47,9 +47,9 @@
    Developer/Index
    KnownProblems/Index
 
-.. Meta Menu
+..  Meta Menu
 
-.. toctree::
+..  toctree::
    :hidden:
 
    Sitemap
