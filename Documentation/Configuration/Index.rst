@@ -1,12 +1,12 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
 
-.. _configuration:
+..  _configuration:
 
 =============
 Configuration
 =============
 
-.. toctree::
+..  toctree::
    :maxdepth: 5
    :titlesonly:
 

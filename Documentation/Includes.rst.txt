@@ -1,34 +1,34 @@
-﻿.. More information about this file:
+﻿..  More information about this file:
    https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/GeneralConventions/FileStructure.html#includes-rst-txt
 
-.. ----------
-.. text roles
-.. ----------
+..  ----------
+..  text roles
+..  ----------
 
-.. role:: aspect(emphasis)
-.. role:: bash(code)
-.. role:: html(code)
-.. role:: js(code)
-.. role:: php(code)
-.. role:: rst(code)
-.. role:: sep(strong)
-.. role:: sql(code)
+..  role:: aspect(emphasis)
+..  role:: bash(code)
+..  role:: html(code)
+..  role:: js(code)
+..  role:: php(code)
+..  role:: rst(code)
+..  role:: sep(strong)
+..  role:: sql(code)
 
-.. role:: tsconfig(code)
-   :class: typoscript
+..  role:: tsconfig(code)
+    :class: typoscript
 
-.. role:: typoscript(code)
-.. role:: xml(code)
-   :class: html
+..  role:: typoscript(code)
+..  role:: xml(code)
+    :class: html
 
-.. role:: yaml(code)
+..  role:: yaml(code)
 
-.. default-role:: code
+..  default-role:: code
 
-.. ---------
-.. highlight
-.. ---------
+..  ---------
+..  highlight
+..  ---------
 
-.. By default, code blocks use PHP syntax highlighting
+..  By default, code blocks use PHP syntax highlighting
 
-.. highlight:: php
+..  highlight:: php

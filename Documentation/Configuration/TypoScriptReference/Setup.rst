@@ -1,8 +1,8 @@
-.. include:: /Includes.rst.txt
-.. highlight:: typoscript
-.. index::
-   TypoScript; Setup
-.. _configuration-typoscript-setup:
+..  include:: /Includes.rst.txt
+..  highlight:: typoscript
+..  index::
+    TypoScript; Setup
+..  _configuration-typoscript-setup:
 
 Setup
 =====
@@ -10,16 +10,16 @@ Setup
 Enable / disable some options
 -----------------------------
 
-.. confval:: enableThat
+..  confval:: enableThat
 
-   :type: bool, stdWrap
-   :Default: false
+    :type: bool, stdWrap
+    :Default: false
 
-   If :php:`TRUE`, something is enabled...
+    If :php:`TRUE`, something is enabled...
 
 
-   Example::
+    Example::
 
-      plugin.tx_example.settings {
-         enableThis.field = xyz
-      }
+       plugin.tx_example.settings {
+          enableThis.field = xyz
+       }

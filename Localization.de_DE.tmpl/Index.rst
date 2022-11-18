@@ -1,31 +1,31 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
 
 ============
 <project-de>
 ============
 
 :Extension-Schlüssel:
-   <extension-key>
+    <extension-key>
 
 :Paketname:
-   <package-name>
+    <package-name>
 
 :Version:
-   |release|
+    |release|
 
 :Sprache:
-   de
+    de
 
 :Autor:
-   <author>
+    <author>
 
 :Lizenz:
-   Dieses Dokument wird unter der
-   `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
-   Lizenz veröffentlicht.
+    Dieses Dokument wird unter der
+    `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
+    Lizenz veröffentlicht.
 
 :Erstellt:
-   |today|
+    |today|
 
 ----
 
@@ -35,22 +35,22 @@
 
 **Inhaltsverzeichnis:**
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
+..  toctree::
+    :maxdepth: 2
+    :titlesonly:
 
-.. Introduction/Index
-.. Installation/Index
-.. Configuration/Index
-.. Editor/Index
-.. Templates/Index
-.. Developer/Index
-.. KnownProblems/Index
+..  Introduction/Index
+..  Installation/Index
+..  Configuration/Index
+..  Editor/Index
+..  Templates/Index
+..  Developer/Index
+..  KnownProblems/Index
 
-.. Metamenü
+..  Metamenü
 
-.. toctree::
-   :hidden:
+..  toctree::
+    :hidden:
 
-.. Sitemap
-.. genindex
+..  Sitemap
+..  genindex

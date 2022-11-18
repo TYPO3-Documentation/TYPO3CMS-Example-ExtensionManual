@@ -1,9 +1,9 @@
-.. include:: /Includes.rst.txt
-.. highlight:: typoscript
+..  include:: /Includes.rst.txt
+..  highlight:: typoscript
 
-.. index::
-   TypoScript; Constants
-.. _configuration-typoscript-constants:
+..  index::
+    TypoScript; Constants
+..  _configuration-typoscript-constants:
 
 Constants
 =========
@@ -11,32 +11,32 @@ Constants
 Enable / disable some options
 -----------------------------
 
-.. confval:: enableThis
+..  confval:: enableThis
 
-   :type: bool
-   :Default: false
+    :type: bool
+    :Default: false
 
-   If :php:`true`, something is enabled...
+    If :php:`true`, something is enabled...
 
-   Example::
+    Example::
 
-      plugin.tx_example.settings {
-         enableThis = true
-      }
+       plugin.tx_example.settings {
+          enableThis = true
+       }
 
 Configure page ids
 ------------------
 
-.. confval:: storageId
+..  confval:: storageId
 
-   :type: int
-   :Default: 0
+    :type: int
+    :Default: 0
 
-   The id of the page storing the records
+    The id of the page storing the records
 
 
-   Example::
+    Example::
 
-      plugin.tx_example.settings {
-         storageId = 42
-      }
+       plugin.tx_example.settings {
+          storageId = 42
+       }

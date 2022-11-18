@@ -1,6 +1,6 @@
-.. include:: /Includes.rst.txt
-.. index:: Templates; Override
-.. _templates-override:
+..  include:: /Includes.rst.txt
+..  index:: Templates; Override
+..  _templates-override:
 
 Overriding templates
 ====================
@@ -14,7 +14,7 @@ more information in the section :ref:`Fluid templates of the Sitepackage tutoria
 provided by TYPO3 can be found in the  :doc:`ViewHelper Reference <t3viewhelper:Index>`
 
 
-.. index:: Templates; TypoScript
+..  index:: Templates; TypoScript
 
 Change the templates using TypoScript constants
 -----------------------------------------------
@@ -28,12 +28,12 @@ where you store the templates.
 We suggest that you use a sitepackage extension. Learn how to
 :doc:`Create a sitepackage extension <t3sitepackage:Index>`.
 
-.. code-block:: typoscript
+..  code-block:: typoscript
 
-   plugin.tx_myextension {
-      view {
-         templateRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Templates/
-         partialRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Partials/
-         layoutRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Layouts/
-      }
-   }
+    plugin.tx_myextension {
+        view {
+            templateRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Templates/
+            partialRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Partials/
+            layoutRootPath = EXT:mysitepackage/Resources/Private/Extensions/myextension/Layouts/
+        }
+    }
