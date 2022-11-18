@@ -1,5 +1,4 @@
 ..  include:: /Includes.rst.txt
-..  highlight:: php
 
 ..  _developer:
 
@@ -75,13 +74,22 @@ the source code.
 Examples
 --------
 
-A php example::
+A PHP example:
+
+..  code-block:: typoscript
+    :caption: EXT:my_extension/Classes/MyClass.php
 
     // use \TYPO3\CMS\Core\Utility\GeneralUtility;
     $stuff = GeneralUtility::makeInstance(
         '\\Foo\\Bar\\Utility\\Stuff'
     );
     $stuff->do();
+
+Import an example class and display it as code block:
+
+..  literalinclude:: _SomeExample.php
+    :emphasize-lines: 9,11-14
+    :linenos:
 
 Example in another language:
 

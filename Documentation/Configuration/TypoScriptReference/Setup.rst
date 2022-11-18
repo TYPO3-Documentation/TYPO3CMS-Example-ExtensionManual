@@ -1,5 +1,4 @@
 ..  include:: /Includes.rst.txt
-..  highlight:: typoscript
 ..  index::
     TypoScript; Setup
 ..  _configuration-typoscript-setup:
@@ -18,8 +17,12 @@ Enable / disable some options
     If :php:`TRUE`, something is enabled...
 
 
-    Example::
+    Example:
 
-       plugin.tx_example.settings {
-          enableThis.field = xyz
-       }
+
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/TypoScript/setup.typoscript
+
+        plugin.tx_example.settings {
+            enableThis.field = xyz
+        }

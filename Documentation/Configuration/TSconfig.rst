@@ -1,5 +1,4 @@
 ..  include:: /Includes.rst.txt
-..  highlight:: typoscript
 ..  index::
     TSconfig
 ..  _configuration-tsconfig:
@@ -32,7 +31,11 @@ User TSconfig
 
     If :typoscript:`true`, something is enabled...
 
-    Example::
+    Example:
+
+
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/TsConfig/editors.tsconfig
 
         tx_myextension.enableSomething = true
 
@@ -53,7 +56,10 @@ Page TSconfig
     be unlimited...
 
 
-    Example, limit something to 10::
+    Example, limit something to 10:
+
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/page.tsconfig
 
         tx_myextension.limitSomething = 10
 
@@ -65,6 +71,9 @@ Page TSconfig
     Comma-list of fields from the pages-table. These fields are ...
 
 
-    Example, limit something to 10::
+    Example, limit something to 10:
+
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/page.tsconfig
 
         tx_myextension.someImportantPages = 4, 7, 42

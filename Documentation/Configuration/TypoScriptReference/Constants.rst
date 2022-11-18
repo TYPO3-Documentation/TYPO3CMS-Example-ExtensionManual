@@ -1,5 +1,4 @@
 ..  include:: /Includes.rst.txt
-..  highlight:: typoscript
 
 ..  index::
     TypoScript; Constants
@@ -18,11 +17,14 @@ Enable / disable some options
 
     If :php:`true`, something is enabled...
 
-    Example::
+    Example:
 
-       plugin.tx_example.settings {
-          enableThis = true
-       }
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/TypoScript/constants.typoscript
+
+        plugin.tx_example.settings {
+            enableThis = true
+        }
 
 Configure page ids
 ------------------
@@ -35,8 +37,12 @@ Configure page ids
     The id of the page storing the records
 
 
-    Example::
+    Example:
 
-       plugin.tx_example.settings {
-          storageId = 42
-       }
+
+    ..  code-block:: typoscript
+        :caption: EXT:my_extension/Congifguration/TypoScript/constants.typoscript
+
+        plugin.tx_example.settings {
+            storageId = 42
+        }

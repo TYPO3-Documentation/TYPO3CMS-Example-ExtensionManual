@@ -30,8 +30,13 @@ Minimal example of TypoScript:
 
 *   Code-blocks have support for syntax highlighting
 *   Use any supported language
+*   Turn non line numbers if desired
+*   you can highlight lines
 
 ..  code-block:: typoscript
+    :caption: EXT:my_extension/Congifguration/TypoScript/setup.typoscript
+    :linenos:
+    :emphasize-lines: 1, 3-4
 
     plugin.tx_myextension.settings {
        # configure basic email settings

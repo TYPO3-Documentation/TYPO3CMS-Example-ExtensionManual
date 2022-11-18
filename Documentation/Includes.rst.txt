@@ -24,11 +24,3 @@
 ..  role:: yaml(code)
 
 ..  default-role:: code
-
-..  ---------
-..  highlight
-..  ---------
-
-..  By default, code blocks use PHP syntax highlighting
-
-..  highlight:: php
