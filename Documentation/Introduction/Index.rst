@@ -26,6 +26,7 @@ The aim of this chapter is to provide a general overview of your extension.
 *   What does it do?
 *   What problems does it solve?
 *   Who is the target audience?
+*   test again
 
 This chapter should provide information that will help inform
 potential users and assist them in deciding if they should
