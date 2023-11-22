@@ -22,9 +22,8 @@
     <author>
 
 :License:
-    This document is published under the
-    `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
-    license.
+   This document is published under the Open Content License
+   available from http://www.opencontent.org/opl.shtml
 
 :Rendered:
     |today|
