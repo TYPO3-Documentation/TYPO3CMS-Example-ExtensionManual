@@ -1,6 +1,6 @@
 # Git global ignore file
 # for local exclude patterns please edit .git/info/exclude
-# Example file see https://github.com/TYPO3-Documentation/T3DocTeam/blob/master/.gitignore
+# Example file see https://github.com/TYPO3-Documentation/T3DocTeam/blob/main/.gitignore
 
 # ignore generated documentation
 *GENERATED*
