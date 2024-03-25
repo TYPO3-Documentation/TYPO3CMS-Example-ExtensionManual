@@ -29,7 +29,7 @@ the source code.
 
 ..  php:namespace:: Vendor\MyExtension\Interfaces
 
-..  php:class:: ExampleInterface
+..  php:interface:: ExampleInterface
 
     Has to be implemented by all ...
 
@@ -38,11 +38,11 @@ the source code.
         :returntype: string
         :returns: Something important
 
-..  php:class:: AnotherImportantInterface
+..  php:interface:: AnotherImportantInterface
 
     Used for ...
 
-    ..  php:class:: RequireJsModuleInterface
+..  php:interface:: RequireJsModuleInterface
 
     Widgets implementing this interface will add the provided RequireJS modules.
     Those modules will be loaded in dashboard view if the widget is added at least once.

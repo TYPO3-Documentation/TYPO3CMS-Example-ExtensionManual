@@ -55,4 +55,3 @@
     :hidden:
 
     Sitemap
-    genindex
