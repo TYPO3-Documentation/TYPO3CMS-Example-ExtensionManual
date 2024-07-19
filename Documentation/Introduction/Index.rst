@@ -33,7 +33,7 @@ install and use this extension.
 
 ..  attention::
 
-    Do not forget to set extension's version number in :file:`Settings.cfg` file,
+    Do not forget to set extension's version number in :file:`guides.xml` file,
     in the :code:`release` property.
     It will be automatically picked up on the cover page by the :code:`|release|` substitution.
 
