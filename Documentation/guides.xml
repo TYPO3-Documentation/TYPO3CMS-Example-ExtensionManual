@@ -10,7 +10,6 @@
              project-repository="&lt;project-repository&gt;"
              project-issues="&lt;project-issues&gt;"
              project-discussions="&lt;project-discussions&gt;"
-             use-opensearch="&lt;use-opensearch&gt;"
              edit-on-github-branch="main"
              edit-on-github="TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual"
              typo3-core-preferred="stable"
