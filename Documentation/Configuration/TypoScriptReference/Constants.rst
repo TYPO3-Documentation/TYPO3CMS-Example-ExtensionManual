@@ -16,7 +16,7 @@ Enable / disable some options
     :type: bool
     :Default: false
 
-    If :php:`true`, something is enabled...
+    If :typoscript:`true`, something is enabled...
 
     Example::
 
