@@ -15,7 +15,7 @@ Enable / disable some options
     :type: bool, stdWrap
     :Default: false
 
-    If :php:`TRUE`, something is enabled...
+    If :typoscript:`true`, something is enabled...
 
 
     Example::
