@@ -13,9 +13,9 @@ Enable / disable some options
 ..  confval:: enableThat
 
     :type: bool, stdWrap
-    :Default: false
+    :Default: 0
 
-    If :typoscript:`true`, something is enabled...
+    If :php:`true` or :typoscript:`1` something is enabled...
 
 
     Example::
