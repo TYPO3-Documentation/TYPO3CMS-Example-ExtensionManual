@@ -28,7 +28,7 @@ User TSconfig
 ..  confval:: enableSomething
 
     :type: bool
-    :Default: false
+    :Default: 0
 
     If :typoscript:`1` then something is enabled.
 
