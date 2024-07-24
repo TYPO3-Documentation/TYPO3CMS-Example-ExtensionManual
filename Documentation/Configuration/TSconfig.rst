@@ -30,7 +30,7 @@ User TSconfig
     :type: bool
     :Default: false
 
-    If :php:`true` or :typoscript:`1` then something is enabled.
+    If :typoscript:`1` then something is enabled.
 
     Example::
 
