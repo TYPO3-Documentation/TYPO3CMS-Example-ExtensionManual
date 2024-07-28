@@ -14,14 +14,14 @@ Enable / disable some options
 ..  confval:: enableThis
 
     :type: bool
-    :Default: false
+    :Default: 0
 
-    If :php:`true`, something is enabled...
+    If :typoscript:`1` then something is enabled.
 
     Example::
 
        plugin.tx_example.settings {
-          enableThis = true
+          enableThis = 1
        }
 
 Configure page ids
