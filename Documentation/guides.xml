@@ -8,7 +8,7 @@
              project-home="&lt;project-home&gt;"
              project-contact="&lt;project-contact&gt;"
              project-repository="&lt;project-repository&gt;"
-             project-issues="&lt;project-issues&gt;"
+             project-issues="https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues"
              project-discussions="&lt;project-discussions&gt;"
              edit-on-github-branch="main"
              edit-on-github="TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual"
