@@ -1,4 +1,6 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
+
+.. _start:
 
 ============
 <project-fr>
@@ -38,18 +40,17 @@
     :maxdepth: 2
     :titlesonly:
 
-..  Introduction/Index
-..  Installation/Index
-..  Configuration/Index
-..  Editor/Index
-..  Templates/Index
-..  Developer/Index
-..  KnownProblems/Index
+    Introduction/Index
+    Installation/Index
+    Configuration/Index
+    Editor/Index
+    Templates/Index
+    Developer/Index
+    KnownProblems/Index
 
 ..  Metamenu
 
 ..  toctree::
     :hidden:
 
-..  Sitemap
-..  genindex
+    Sitemap

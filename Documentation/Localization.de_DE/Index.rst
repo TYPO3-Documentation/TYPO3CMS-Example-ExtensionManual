@@ -1,5 +1,7 @@
 ..  include:: /Includes.rst.txt
 
+.. _start:
+
 ============
 <project-de>
 ============
@@ -22,7 +24,7 @@
 :Lizenz:
     Dieses Dokument wird unter der
     `Creative Commons BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__
-    Lizenz veröffentlicht.
+     Lizenz veröffentlicht.
 
 :Erstellt:
     |today|
@@ -39,18 +41,17 @@
     :maxdepth: 2
     :titlesonly:
 
-..  Introduction/Index
-..  Installation/Index
-..  Configuration/Index
-..  Editor/Index
-..  Templates/Index
-..  Developer/Index
-..  KnownProblems/Index
+    Introduction/Index
+    Installation/Index
+    Configuration/Index
+    Editor/Index
+    Templates/Index
+    Developer/Index
+    KnownProblems/Index
 
 ..  Metamenü
 
 ..  toctree::
     :hidden:
 
-..  Sitemap
-..  genindex
+    Sitemap
