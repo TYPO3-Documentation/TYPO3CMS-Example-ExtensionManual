@@ -8,13 +8,12 @@ Introduction
 
 ..  tip::
 
-    New to reStructuredText and Sphinx?
+    New to reStructuredText and PHP-based documentation rendering?
 
-    Get an introduction:
-    https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/Index.html
-
-    Use this cheat sheet as reference:
-    https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/CheatSheet.html
+    * Get an introduction in :ref:`Writing documentation <h2document:start>`
+    * Use this cheat sheet as reference: :ref:`Cheat sheet: reStructuredText <h2document:rest-cheat-sheet>`
+    * Still using Sphinx? :ref:`Migration: From Sphinx to PHP-based rendering <h2document:migrate>`
+    * Get an overview in the :ref:`reStructuredText Reference <h2document:rest-reference>`
 
 ..  _what-it-does:
 

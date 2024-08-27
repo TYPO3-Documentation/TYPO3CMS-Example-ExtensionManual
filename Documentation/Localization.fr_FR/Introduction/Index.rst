@@ -8,13 +8,12 @@ Introduction
 
 ..  tip::
 
-    Nouveau à reStructuredText et Sphinx?
+    Nouveau à reStructuredText et rendu de la documentation en PHP?
 
-    Faites-vous présenter :
-    https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/Index.html
-
-    Use this cheat sheet as reference:
-    https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingReST/CheatSheet.html
+    * Obtenir une introduction dans la :ref:`documentation écrite <h2document:start>`
+    * Utilisez cet :ref:`aide-mémoire: reStructuredText <h2document:rest-cheat-sheet>` comme référence
+    * Vous utilisez toujours Sphinx ? :ref:`Migration : De Sphinx à un rendu basé sur PHP <h2document:migrate>`
+    * Obtenez une vue d'ensemble dans la :ref:`référence reStructuredText <h2document:rest-reference>`
 
 ..  _what-it-does:
 
