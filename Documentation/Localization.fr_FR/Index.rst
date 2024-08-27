@@ -91,8 +91,6 @@ pour trouver rapidement les informations qu'il recherche.
         ..  card-footer:: :ref:`Apprendre à dépanner <known-problems>`
             :button-style: btn btn-secondary stretched-link
 
-----
-
 ..  toctree::
     :hidden:
     :titlesonly:
